@@ -1,0 +1,6 @@
+O Escape room da Isis funcionou perfeitamente até o fim. O jogo dela foi criado a partir de funções e as relações entre os dicionários criados foram muito bem feitas. Previu ações erroneas do usuário e garantiu o fluxo do game perfeito.
+
+Meu Escape room também foi feito a partir de funções e dicionários mas ao analisar o jogo da Isis percebi que criei muitas funções redundantes e muitas verificações desnecessárias, deixando meu código complexo desnecessariamente. Apesar disso em meu jogo também é possível chegar até o final havendo apenas um caso que não foi percebido, podendo afetar negativamente a experiência do usuário.
+
+O escape room da Carol funcionou perfeitamente até o fim. O jogo foi criado a partir de funções de whiles e ifs e cria um ambiente descontraído com as opções oferecidas pela Carol. Apesar do jogo dela permitir apenas um fluxo a ser seguido ela garante o 100% de funcionamento do programa dela. 
+
